@@ -1,5 +1,5 @@
-# DATASCI 200: Introduction to Data Science Programming
+# DATASCI 200: Cho Liang Morberg Final Project
 
-Welcome to DATASCI 200! To use this starter repo simply set up your [git client](https://docs.github.com/en/authentication/connecting-to-github-with-ssh) and clone the repo with the SSH link.
+This project focuses on exploring chart and Spotify data and exploring relationships which may indicate the common characteristics of the most popular songs.
 
 
